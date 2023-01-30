@@ -1,8 +1,1 @@
-# Tableau-Lab
-
-### Build a Dashboard using the titanic dataset
-#### Dash must contain:
-- Three different charts
-- Filter
-- Dash design
-- publish Dash
+[Dashboard link](https://prod-uk-a.online.tableau.com/t/modashboard/views/Book1/Dashboard2?:origin=card_share_link&:embed=n)
