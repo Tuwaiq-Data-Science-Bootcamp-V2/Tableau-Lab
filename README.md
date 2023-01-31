@@ -8,4 +8,4 @@
 - publish Dash
 
 
-## Titanic Data Visualization By Munirah [**View Dashboard**](https://10az.online.tableau.com/#/site/munirahssite/workbooks/1967146?:origin=card_share_link)
+## Titanic Data Visualization By Munirah [**View Dashboard**](https://public.tableau.com/views/Titanic-dashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
