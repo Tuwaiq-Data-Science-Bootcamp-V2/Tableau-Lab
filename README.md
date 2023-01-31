@@ -7,4 +7,4 @@
 - Dash design
 - publish Dash
 
-[My Dashboard Razan Alyahya](https://10az.online.tableau.com/#/site/razanalyahya/workbooks/1967271?:origin=card_share_link)
+[My Dashboard Razan Alyahya 'Dashboard Titanic'](https://public.tableau.com/app/profile/razan.alyahya/viz/DashboardTitanic2_16751592661600/DashboardTitanic2?publish=yes)
