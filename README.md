@@ -7,4 +7,4 @@
 - Dash design
 - publish Dash
 
-[Dashboard Link](https://prod-uk-a.online.tableau.com/t/amjad/views/TitanicDatasetDashboard/Dashboard1)
+[Dashboard Link](https://public.tableau.com/views/TitanicDashboard_16751654007490/TitanicDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
